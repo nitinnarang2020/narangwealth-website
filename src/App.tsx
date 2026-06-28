@@ -6,7 +6,9 @@
 import React from "react";
 import { motion } from "motion/react";
 import { Mail, ArrowRight, ShieldCheck, Landmark, Globe } from "lucide-react";
-import logoImg from "./assets/images/narang_wealth_hero_logo_1782642565046.jpg";
+import logoImg from "./assets/images/logo.jpg";
+import heroImg from "./assets/images/hero.jpg";
+
 
 export default function App() {
   const emailAddress = "info@narangwealth.in";
