@@ -98,7 +98,7 @@ export default function App() {
             >
               {/* Highlighted Portal Link */}
               <a
-                href="/open-account"
+                href="/start"
                 className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-7 py-3.5 bg-[#1C1A17] hover:bg-[#2E2A25] text-white text-sm font-medium rounded-xl transition-all duration-300 shadow-md hover:shadow-lg transform active:scale-98"
                 id="portal-redirect-link"
               >
